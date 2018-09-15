@@ -42,10 +42,13 @@ $(document).ready(function() {
           { title: "Sample date", data: 'date' },
           { title: "Note", data: 'note' },
         ],
+	"columnDefs": [
+		{ "orderable": false, "targets": 6 }
+	]
 	"caseInsensitive": true,
         "info": false,
         "paging": true,
-        "order": [[ 6, "desc" ]],
+        "order": [[ 5, "desc" ]],
         "responsive": true,
     });
     // Remove accented character from search input as well
