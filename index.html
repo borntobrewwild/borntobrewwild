@@ -40,11 +40,8 @@ $(document).ready(function() {
           { title: "pH", data: 'ph' },
           { title: "TA<sup>ASBC</sup>", data: 'ta' },
           { title: "Sample date", data: 'date' },
-          { title: "Note", data: 'note' },
+          { title: "Note", data: 'note', "orderable": false },
         ],
-	"columnDefs": [
-		{ "orderable": false, "targets": 6 }
-	]
 	"caseInsensitive": true,
         "info": false,
         "paging": true,
