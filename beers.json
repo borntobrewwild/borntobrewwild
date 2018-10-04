@@ -26,6 +26,14 @@
          "ta":"",
          "date":"2018-10-04",
          "note":"Bottle, best before 2018-12-18, 183100189"
-      }
-   ]
+      },
+      {
+         "brewery":"The Wild Beer Co",
+         "country":"UK",
+         "beer":"Zintuky",
+         "ph":"",
+         "ta":"",
+         "date":"2018-10-04",
+         "note":"Bottle"
+      }   ]
 }
