@@ -17,6 +17,15 @@
          "ta":"9.5",
          "date":"2018-09-16",
          "note":"Bottle, best before 2019-12-31"
+      },
+      {
+         "brewery":"Zichovec",
+         "country":"CZ",
+         "beer":"Sour Passion Fruit",
+         "ph":"",
+         "ta":"",
+         "date":"2018-10-04",
+         "note":"Bottle, best before 2018-12-18, 183100189"
       }
    ]
 }
