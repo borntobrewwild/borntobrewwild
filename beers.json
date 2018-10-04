@@ -35,5 +35,24 @@
          "ta":"",
          "date":"2018-10-04",
          "note":"Bottle"
-      }   ]
+      },
+      {
+         "brewery":"Mikkeller",
+         "country":"DK",
+         "beer":"Raspberry Organic Berliner",
+         "ph":"",
+         "ta":"",
+         "date":"2018-10-04",
+         "note":"Can, BB 2019-06-27"
+      },
+      {
+         "brewery":"Timmermans",
+         "country":"BE",
+         "beer":"Kriek Lambicus",
+         "ph":"",
+         "ta":"",
+         "date":"2018-10-04",
+         "note":"Bottle, BB 2019-07-31"
+      }     
+   ]
 }
