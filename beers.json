@@ -34,7 +34,7 @@
          "ph":"3.5",
          "ta":"7.0",
          "date":"2018-10-04",
-         "note":"Bottle, no BB"
+         "note":"Bottle"
       },
       {
          "brewery":"Mikkeller",
@@ -53,6 +53,15 @@
          "ta":"5.2",
          "date":"2018-10-04",
          "note":"Bottle, BB 2019-07-31"
-      }     
+      },
+      {
+         "brewery":"The Lost Abbey",
+         "country":"US",
+         "beer":"Red Poppy Ale",
+         "ph":"3.3",
+         "ta":"10.1",
+         "date":"2018-10-05",
+         "note":"Bottle"
+      }    
    ]
 }
