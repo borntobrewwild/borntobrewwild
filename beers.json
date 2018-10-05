@@ -31,10 +31,10 @@
          "brewery":"The Wild Beer Co",
          "country":"UK",
          "beer":"Zintuky",
-         "ph":"",
-         "ta":"",
+         "ph":"3.5",
+         "ta":"7.0",
          "date":"2018-10-04",
-         "note":"Bottle"
+         "note":"Bottle, no BB"
       },
       {
          "brewery":"Mikkeller",
