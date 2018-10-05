@@ -62,6 +62,14 @@
          "ta":"10.1",
          "date":"2018-10-05",
          "note":"Bottle"
-      }    
-   ]
+      },
+      {
+         "brewery":"Tiny Rebel",
+         "country":"UK",
+         "beer":"Frambuzi",
+         "ph":"",
+         "ta":"1",
+         "date":"2018-10-05",
+         "note":"Can, BB 2020-01-18"
+      }       ]
 }
