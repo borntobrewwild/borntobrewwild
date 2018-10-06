@@ -1,0 +1,22 @@
+{
+   "data":[
+      {
+         "brewery":"Tiny Rebel",
+         "country":"UK",
+         "beer":"Frambuzi",
+         "ph":"",
+         "ta":"",
+         "date":"2018-10-05",
+         "note":"Can, BB 2020-01-18"
+      },
+      {
+         "brewery":"Mikkeller",
+         "country":"DK",
+         "beer":"Hallo Ich Bin Berliner Weisse Cassis",
+         "ph":"",
+         "ta":"",
+         "date":"2018-10-06",
+         "note":"Can, BB 2019-06-12"
+      },
+   ]
+}
