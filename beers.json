@@ -71,5 +71,15 @@
          "ta":"8.5",
          "date":"2018-10-05",
          "note":"Can, BB 2020-01-18"
-      }       ]
+      }, 
+      {
+         "brewery":"Mikkeller",
+         "country":"DK",
+         "beer":"Hallo Ich Bin Berliner Weisse Cassis",
+         "ph":"3.0",
+         "ta":"11.7",
+         "date":"2018-10-06",
+         "note":"Can, BB 2019-06-12"
+      },
+   ]
 }
