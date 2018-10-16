@@ -80,6 +80,15 @@
          "ta":"11.7",
          "date":"2018-10-06",
          "note":"Can, BB 2019-06-12"
+      },
+      {
+         "brewery":"BrewFist",
+         "country":"IT",
+         "beer":"Lady Peach",
+         "ph":"3.5",
+         "ta":"",
+         "date":"2018-10-10",
+         "note":""
       }
    ]
 }
