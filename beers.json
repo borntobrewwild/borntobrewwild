@@ -98,6 +98,15 @@
          "ta":"6.7",
          "date":"2018-10-10",
          "note":"On tap, King Grizzly"
+      },
+      }
+         "brewery":"LoverBeer",
+         "country":"IT",
+         "beer":"Saison De L'Ouvrier Cardosa",
+         "ph":"3.3",
+         "ta":"14.0",
+         "date":"2018-10-10",
+         "note":"On tap, King Grizzly"
       }
    ]
 }
