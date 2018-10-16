@@ -99,7 +99,7 @@
          "date":"2018-10-10",
          "note":"On tap, King Grizzly"
       },
-      }
+      {
          "brewery":"LoverBeer",
          "country":"IT",
          "beer":"Saison De L'Ouvrier Cardosa",
@@ -108,7 +108,7 @@
          "date":"2018-10-10",
          "note":"On tap, King Grizzly"
       },
-      }
+      {
          "brewery":"The Rock Brewery",
          "country":"IT",
          "beer":"Lady L.",
