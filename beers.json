@@ -87,8 +87,17 @@
          "beer":"Lady Peach",
          "ph":"3.5",
          "ta":"5.6",
+         "date":"2018-10-9",
+         "note":"Bottle"
+      },
+      }
+         "brewery":"Canediguerra",
+         "country":"IT",
+         "beer":"Berliner Weisse",
+         "ph":"3.2",
+         "ta":"6.7",
          "date":"2018-10-10",
-         "note":""
+         "note":"On tap, King Grizzly"
       }
    ]
 }
