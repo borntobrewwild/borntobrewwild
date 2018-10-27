@@ -143,6 +143,15 @@
          "ta":"3.8",
          "date":"2018-10-24",
          "note":"Bottle, 2018-12-19"
+      },
+      {
+         "brewery":"Zichovec",
+         "country":"CZ",
+         "beer":"Sour Mango + Raspberry,
+         "ph":"3.4",
+         "ta":"6.5",
+         "date":"2018-10-24",
+         "note":"Bottle, 2019-02-16, 18310229
       }
    ]
 }
