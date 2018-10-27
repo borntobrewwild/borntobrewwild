@@ -125,6 +125,15 @@
          "ta":"16.2",
          "date":"2018-10-17",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Permon",
+         "country":"CZ",
+         "beer":"American Wild Ale Peach",
+         "ph":"3.6",
+         "ta":"5.2",
+         "date":"2018-10-24",
+         "note":"Bottle. 21-12-2018"
       }
    ]
 }
