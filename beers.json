@@ -116,6 +116,15 @@
          "ta":"3.4",
          "date":"2018-10-13",
          "note":"On tap, Teatro delle Birre"
+      },
+      {
+         "brewery":"Birrificio Oldo",
+         "country":"IT",
+         "beer":"Trentalegni",
+         "ph":"3.3",
+         "ta":"16.2",
+         "date":"2018-10-17",
+         "note":"Bottle"
       }
    ]
 }
