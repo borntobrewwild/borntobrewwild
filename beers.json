@@ -133,7 +133,16 @@
          "ph":"3.6",
          "ta":"5.2",
          "date":"2018-10-24",
-         "note":"Bottle. 21-12-2018"
+         "note":"Bottle, 2018-12-21"
+      },
+      {
+         "brewery":"Lucky Bastard",
+         "country":"CZ",
+         "beer":"Apricot Pussy,
+         "ph":"4.1",
+         "ta":"3.8",
+         "date":"2018-10-24",
+         "note":"Bottle, 2018-12-19"
       }
    ]
 }
