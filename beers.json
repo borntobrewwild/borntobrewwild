@@ -224,6 +224,24 @@
          "ta":"11.3",
          "date":"2018-11-13",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Alvinne",
+         "country":"BE",
+         "beer":"Cuvée Sofie Rabarber-Rhubarb",
+         "ph":"3.3",
+         "ta":"11.3",
+         "date":"2018-11-13",
+         "note":"Bottle"
+      },
+      {
+         "brewery":"Alvinne",
+         "country":"BE",
+         "beer":"Sour'ire De Mortagne Kriek",
+         "ph":"3.2",
+         "ta":"13.8",
+         "date":"2018-11-13",
+         "note":"Bottle"
       } 
    ]
 }
