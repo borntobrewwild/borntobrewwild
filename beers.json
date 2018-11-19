@@ -170,6 +170,15 @@
          "ta":"4.0",
          "date":"2018-11-11",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Sukin Syn Brewery",
+         "country":"CZ",
+         "beer":"Mrk",
+         "ph":"3.5",
+         "ta":"6.3",
+         "date":"2018-11-11",
+         "note":"Bottle"
       }
    ]
 }
