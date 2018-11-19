@@ -158,9 +158,18 @@
          "country":"CZ",
          "beer":"Framboise",
          "ph":"3.2",
-         "ta":"",
-         "date":"2018-10-24",
+         "ta":"7.0",
+         "date":"2018-10-31",
          "note":"Bottle, 2019-02-09"
+      },
+      {
+         "brewery":"Antoš",
+         "country":"CZ",
+         "beer":"Chocholáč Pineapple Gose",
+         "ph":"3.4",
+         "ta":"4.0",
+         "date":"2018-11-11",
+         "note":"Bottle"
       }
    ]
 }
