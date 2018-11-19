@@ -260,6 +260,15 @@
          "ta":"4.1",
          "date":"2018-11-14",
          "note":"Bottle"
+      },
+      {
+         "brewery":"eorca brau",
+         "country":"DE",
+         "beer":"endless summer",
+         "ph":"3.4",
+         "ta":"6.3",
+         "date":"2018-11-14",
+         "note":"On tap, Mr. Kennedy"
       } 
    ]
 }
