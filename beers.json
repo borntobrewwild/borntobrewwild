@@ -215,6 +215,15 @@
          "ta":"13.1",
          "date":"2018-11-13",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Alvinne",
+         "country":"BE",
+         "beer":"Cuvée Sofie",
+         "ph":"3.2",
+         "ta":"11.3",
+         "date":"2018-11-13",
+         "note":"Bottle"
       } 
    ]
 }
