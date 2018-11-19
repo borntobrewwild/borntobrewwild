@@ -188,6 +188,15 @@
          "ta":"12.8",
          "date":"2018-11-13",
          "note":"Bottle"
-      }
+      },
+      {
+         "brewery":"Alvinne",
+         "country":"BE",
+         "beer":"Wild West Plum Edition 2017",
+         "ph":"3.2",
+         "ta":"13.0",
+         "date":"2018-11-13",
+         "note":"Bottle"
+      } 
    ]
 }
