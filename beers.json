@@ -197,6 +197,24 @@
          "ta":"13.0",
          "date":"2018-11-13",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Alvinne",
+         "country":"BE",
+         "beer":"Cuvée Freddy",
+         "ph":"3.3",
+         "ta":"9.9",
+         "date":"2018-11-13",
+         "note":"Bottle"
+      },
+      {
+         "brewery":"Alvinne",
+         "country":"BE",
+         "beer":"Kriek Van Mortagne",
+         "ph":"",
+         "ta":"",
+         "date":"2018-11-13",
+         "note":"Bottle"
       } 
    ]
 }
