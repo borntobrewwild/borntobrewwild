@@ -251,6 +251,15 @@
          "ta":"6.1",
          "date":"2018-11-14",
          "note":"Bottle, Nina"
+      },
+      {
+         "brewery":"Sakiškių Alus",
+         "country":"LT",
+         "beer":"Bloody Mary Gose",
+         "ph":"3.6",
+         "ta":"4.1",
+         "date":"2018-11-14",
+         "note":"Bottle"
       } 
    ]
 }
