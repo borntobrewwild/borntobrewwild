@@ -242,6 +242,15 @@
          "ta":"13.8",
          "date":"2018-11-13",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Mikkeller Baghaven",
+         "country":"DE",
+         "beer":"Bière de Cabaret",
+         "ph":"3.4",
+         "ta":"6.1",
+         "date":"2018-11-14",
+         "note":"Bottle, Nina"
       } 
    ]
 }
