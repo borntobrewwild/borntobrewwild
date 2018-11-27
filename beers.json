@@ -1,5 +1,14 @@
 {
    "data":[
+       {
+         "brewery":"Falkon",
+         "country":"CZ",
+         "beer":"Mad at gas car",
+         "ph":"4.1",
+         "ta":"3.6",
+         "date":"2018-07-17",
+         "note":"On tap"
+      },
       {
          "brewery":"JBM",
          "country":"CZ",
