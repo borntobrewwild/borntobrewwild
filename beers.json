@@ -296,6 +296,15 @@
          "ta":"3.2",
          "date":"2018-11-19",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Maryensztadt",
+         "country":"PL",
+         "beer":"Sourtime Mango IIPA",
+         "ph":"3.5",
+         "ta":"10.1",
+         "date":"2018-12-03",
+         "note":"Bottle, 2019-07-30"
       } 
    ]
 }
