@@ -302,9 +302,18 @@
          "country":"PL",
          "beer":"Sourtime Mango IIPA",
          "ph":"3.5",
-         "ta":"10.1",
+         "ta":"7.1",
          "date":"2018-12-03",
          "note":"Bottle, 2019-07-30"
+      },
+       {
+         "brewery":"Brasserie Cantillon",
+         "country":"BE",
+         "beer":"Grand Cru Bruocsella Lambic",
+         "ph":"3.3",
+         "ta":"8.3",
+         "date":"2018-12-12",
+         "note":"On tap"
       } 
    ]
 }
