@@ -332,6 +332,15 @@
          "ta":"8.1",
          "date":"2019-01-04",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Founders Brewing",
+         "country":"US",
+         "beer":"Green Zebra",
+         "ph":"2.7",
+         "ta":"7.4",
+         "date":"2018-12-22",
+         "note":"Bottle"
       } 
    ]
 }
