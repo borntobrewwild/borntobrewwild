@@ -314,6 +314,24 @@
          "ta":"8.3",
          "date":"2018-12-12",
          "note":"On tap"
+      }, 
+      {
+         "brewery":"Stone Brewing Berlin",
+         "country":"DE",
+         "beer":"Pilot Series: Elderflower Sour",
+         "ph":"3.4",
+         "ta":"8.3",
+         "date":"2018-12-16",
+         "note":"On tap"
+      },
+      {
+         "brewery":"Cobolis",
+         "country":"CZ",
+         "beer":"Berliner Weisse 13 s višní",
+         "ph":"3.2",
+         "ta":"8.1",
+         "date":"2019-01-04",
+         "note":"Bottle"
       } 
    ]
 }
