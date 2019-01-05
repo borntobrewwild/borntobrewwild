@@ -287,6 +287,15 @@
          "ta":"7.7",
          "date":"2018-11-14",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Brasserie de la Senne",
+         "country":"BE",
+         "beer":"Bruxellensis",
+         "ph":"4.3",
+         "ta":"3.2",
+         "date":"2018-11-19",
+         "note":"Bottle"
       } 
    ]
 }
