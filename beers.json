@@ -449,6 +449,15 @@
          "ta":"3.4",
          "date":"2019-02-22",
          "note":"Bottle, batch 1, thank you Nina"
+       },
+      {
+         "brewery":"Nevel",
+         "country":"BE",
+         "beer":"Weide",
+         "ph":"3.5",
+         "ta":"9.9",
+         "date":"2019-02-22",
+         "note":"Bottle, batch 2, thank you Nina"
       }     
    ]
 }
