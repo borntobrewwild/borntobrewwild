@@ -377,6 +377,15 @@
          "ta":"10.3",
          "date":"2019-01-20",
          "note":"Bottle, 9/2018, thank you Nina"
-      } 
+      },
+      {
+         "brewery":"Brauhaus Bevog",
+         "country":"Totem Dryhopped Sour",
+         "beer":"AT",
+         "ph":"3.3",
+         "ta":"7.9",
+         "date":"2019-01-26",
+         "note":"Can"
+      }   
    ]
 }
