@@ -415,13 +415,13 @@
          "note":"Can"
       },
       {
-         "brewery":"BRLO",
-         "country":"DE",
-         "beer":"Cranberry Quince Gose",
+         "brewery":"Wild Creatures",
+         "country":"CZ",
+         "beer":"Head over Heels",
          "ph":"3.1",
          "ta":"11.5",
-         "date":"2019-02-09",
-         "note":"Bottle"
+         "date":"2019-03-16",
+         "note":"Bottle, 01/20"
       },
       {
          "brewery":"Zichovec",
@@ -476,6 +476,15 @@
          "ta":"8.3",
          "date":"2019-03-16",
          "note":"Bottle, 2015, thank you Nina"
+       },
+      {
+         "brewery":"Varvar",
+         "country":"UA",
+         "beer":"Amalgam",
+         "ph":"3.2",
+         "ta":"",
+         "date":"2019-03-16",
+         "note":"Bottle, 363, thank you Lana"
       }     
    ]
 }
