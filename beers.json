@@ -422,6 +422,15 @@
          "ta":"11.5",
          "date":"2019-02-09",
          "note":"Bottle"
-      }          
+      },
+      {
+         "brewery":"Zichovec",
+         "country":"CZ",
+         "beer":"Imperial Stout 20 Brett + Sour Cherries Barrel Aged",
+         "ph":"3.4",
+         "ta":"",
+         "date":"2019-04-16",
+         "note":"On tap"
+      }         
    ]
 }
