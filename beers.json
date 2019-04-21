@@ -350,6 +350,15 @@
          "ta":"10.6",
          "date":"2019-04-21",
          "note":"On tap"
+      },
+      {
+         "brewery":"Petrus",
+         "country":"Aged Red",
+         "beer":"BE",
+         "ph":"3.2",
+         "ta":"6.3",
+         "date":"2019-01-05",
+         "note":"Bottle, 55BA298"
       } 
    ]
 }
