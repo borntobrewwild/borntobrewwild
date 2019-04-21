@@ -353,8 +353,8 @@
       },
       {
          "brewery":"Petrus",
-         "country":"Aged Red",
-         "beer":"BE",
+         "country":"BE",
+         "beer":"Aged Red",
          "ph":"3.2",
          "ta":"6.3",
          "date":"2019-01-05",
@@ -362,8 +362,8 @@
       },
       {
          "brewery":"Rogue",
-         "country":"Marionberry Sour",
-         "beer":"US",
+         "country":"US",
+         "beer":"Marionberry Sour",
          "ph":"3.3",
          "ta":"10.8",
          "date":"2019-01-07",
@@ -371,8 +371,8 @@
       },
       {
          "brewery":"Vandenbroek",
-         "country":"Quetsch Watergeus",
-         "beer":"BE",
+         "country":"BE",
+         "beer":"Quetsch Watergeus",
          "ph":"3.2",
          "ta":"10.3",
          "date":"2019-01-20",
@@ -380,12 +380,21 @@
       },
       {
          "brewery":"Brauhaus Bevog",
-         "country":"Totem Dryhopped Sour",
-         "beer":"AT",
+         "country":"AT",
+         "beer":"Totem Dryhopped Sour",
          "ph":"3.3",
          "ta":"7.9",
          "date":"2019-01-26",
          "note":"Can"
+      },
+      {
+         "brewery":"MONYO",
+         "country":"HU",
+         "beer":"Ma Chérie",
+         "ph":"3.1",
+         "ta":"6.8",
+         "date":"2019-02-10",
+         "note":"Bottle"
       }   
    ]
 }
