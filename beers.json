@@ -341,6 +341,15 @@
          "ta":"7.4",
          "date":"2018-12-22",
          "note":"Bottle"
+      },
+      {
+         "brewery":"JBM / NextHop",
+         "country":"CS",
+         "beer":"",
+         "ph":"3.1",
+         "ta":"10.6",
+         "date":"2019-04-21",
+         "note":"On tap"
       } 
    ]
 }
