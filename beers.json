@@ -431,6 +431,15 @@
          "ta":"7.4",
          "date":"2019-04-16",
          "note":"On tap"
-      }         
+      },
+      {
+         "brewery":"Vandenbroek",
+         "country":"BE",
+         "beer":"Watergeus",
+         "ph":"3.2",
+         "ta":"21.5",
+         "date":"2019-01-20",
+         "note":"Bottle,11/2017, thank you Nina"
+      }    
    ]
 }
