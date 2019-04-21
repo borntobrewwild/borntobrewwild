@@ -404,6 +404,15 @@
          "ta":"10.9",
          "date":"2019-02-18",
          "note":"Bottle"
-      }    
+      },
+      {
+         "brewery":"Magick Rock",
+         "country":"UK",
+         "beer":"Salty Kiss",
+         "ph":"3.5",
+         "ta":"6.5",
+         "date":"2019-02-23",
+         "note":"Can"
+      }      
    ]
 }
