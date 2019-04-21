@@ -359,6 +359,15 @@
          "ta":"6.3",
          "date":"2019-01-05",
          "note":"Bottle, 55BA298"
+      },
+      {
+         "brewery":"Rogue",
+         "country":"Marionberry Sour",
+         "beer":"US",
+         "ph":"3.3",
+         "ta":"10.8",
+         "date":"2019-01-07",
+         "note":"Bottle"
       } 
    ]
 }
