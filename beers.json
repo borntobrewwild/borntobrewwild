@@ -368,6 +368,15 @@
          "ta":"10.8",
          "date":"2019-01-07",
          "note":"Bottle"
+      },
+      {
+         "brewery":"Vandenbroek",
+         "country":"Quetsch Watergeus",
+         "beer":"BE",
+         "ph":"3.2",
+         "ta":"10.3",
+         "date":"2019-01-20",
+         "note":"Bottle, 9/2018, thank you Nina"
       } 
    ]
 }
