@@ -440,6 +440,15 @@
          "ta":"21.5",
          "date":"2019-01-20",
          "note":"Bottle,11/2017, thank you Nina"
-      }    
+      },
+      {
+         "brewery":"Nevel",
+         "country":"BE",
+         "beer":"Noest",
+         "ph":"4.4",
+         "ta":"3.4",
+         "date":"2019-02-22",
+         "note":"Bottle, batch 1, thank you Nina"
+      }     
    ]
 }
