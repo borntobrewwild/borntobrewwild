@@ -485,6 +485,24 @@
          "ta":"10.1",
          "date":"2019-03-16",
          "note":"Bottle, 363, thank you Lana"
+       },
+      {
+         "brewery":"Πίβο",
+         "country":"CY",
+         "beer":"Sourrealismo",
+         "ph":"3.4",
+         "ta":"7.9",
+         "date":"2019-01-09",
+         "note":"On tap"
+       },
+      {
+         "brewery":"North Brewing Co.",
+         "country":"UK",
+         "beer":"Beer + Art Series 2018 07 7-Fruit Gose",
+         "ph":"",
+         "ta":"",
+         "date":"2019-01-25",
+         "note":"On tap"
       }     
    ]
 }
