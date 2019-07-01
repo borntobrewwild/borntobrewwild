@@ -27,5 +27,14 @@
          "date":"2019-04-26",
          "note":"Bottle, 17-05-2019",
       },
+             {
+         "brewery":"Stone",
+         "country":"DE",
+         "beer":"White Ghost Berliner Weisse",
+         "ph":"3.4",
+         "ta":"",
+         "date":"2019-04-26",
+         "note":"Can, 25-02-2020",
+      },
    ]
 }
