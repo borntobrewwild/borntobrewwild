@@ -1,5 +1,13 @@
 {
    "data":[
-
+       {
+         "brewery":"Brokreacja",
+         "country":"PL",
+         "beer":"(Title Role) Salty Mole",
+         "ph":"3.8",
+         "ta":"",
+         "date":"2019-05-14",
+         "note":"Bottle 22052019",
+      },
    ]
 }
