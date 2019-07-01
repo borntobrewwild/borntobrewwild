@@ -9,5 +9,23 @@
          "date":"2019-05-14",
          "note":"Bottle 22052019",
       },
+      {
+         "brewery":"Rodenbach",
+         "country":"BE",
+         "beer":"Rodenbach Classic",
+         "ph":"3.6",
+         "ta":"",
+         "date":"2019-04-26",
+         "note":"Bottle",
+      },
+       {
+         "brewery":"Thornbridge",
+         "country":"UK",
+         "beer":"Tart",
+         "ph":"3.3",
+         "ta":"",
+         "date":"2019-04-26",
+         "note":"Bottle, 17-05-2019",
+      },
    ]
 }
